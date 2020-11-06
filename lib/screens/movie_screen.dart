@@ -129,7 +129,7 @@ class _MovieScreenState extends State<MovieScreen> {
                   height: 12.0,
                 ),
                 Text(
-                  '⭐⭐⭐⭐',
+                  '⭐⭐⭐⭐⭐',
                   style: TextStyle(
                     fontSize: 25.0,
                   ),
@@ -219,7 +219,6 @@ class _MovieScreenState extends State<MovieScreen> {
                     ),
                   ),
                 ),
-
               ],
             ),
           ),
