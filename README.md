@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 ![Alt text](screenshots/1.PNG?raw=true "homescreen")
+![Alt text](screenshots/2.PNG?raw=true "movie screen")
