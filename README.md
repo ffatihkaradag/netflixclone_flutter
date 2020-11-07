@@ -24,3 +24,4 @@ For build please write command line this  code "flutter build apk" and will gonn
 ## Application Url (Google Drive)
 If you want to try this application, [you can download it here.](https://drive.google.com/file/d/1CNbWM6m2h6F3dqTYIhLjenP4G-g4Rv_i/view?usp=sharing)
 
+[Virustotal Report](https://www.virustotal.com/gui/file/6c2734d557f6f7d040ebdc41080fe848b5345711502f72574c9e73f30bb494ec/detection)
