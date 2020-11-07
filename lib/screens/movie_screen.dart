@@ -45,7 +45,7 @@ class _MovieScreenState extends State<MovieScreen> {
                     onPressed: () => Navigator.pop(context),
                     icon: Icon(Icons.arrow_back),
                     iconSize: 30,
-                    color: Colors.black,
+                    color: Colors.white,
                   ),
                   Image(
                     image: AssetImage('assets/images/netflix_logo.png'),

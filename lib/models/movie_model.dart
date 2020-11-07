@@ -22,70 +22,70 @@ class Movie {
 
 final List<Movie> movies = [
   Movie(
-    imageUrl: 'assets/images/spiderman.jpg',
-    title: 'Spider-Man: Far From Home',
-    categories: 'Fantasy, Sci-fi',
-    year: 2018,
+    imageUrl: 'assets/images/orangeis_0.jpg',
+    title: 'Orange Is the New Black',
+    categories: 'Comedy, Drama',
+    year: 2013,
     country: 'USA',
-    length: 129,
+    length: 60,
     description:
-    'Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peter\'s plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.',
+        'A crime she committed in her youthful past sends Piper Chapman to a womens prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.',
     screenshots: [
-      'assets/images/spiderman_0.jpg',
-      'assets/images/spiderman_1.jpg',
-      'assets/images/spiderman_2.jpg',
+      'assets/images/orangeis.jpg',
+      'assets/images/orangeis_1.jpg',
+      'assets/images/orangeis_2.jpg',
     ],
   ),
   Movie(
-    imageUrl: 'assets/images/nutcracker.jpg',
-    title: 'The Nutcracker And The Four Realms',
-    categories: 'Adventure, Family, Fantasy',
+    imageUrl: 'assets/images/dark_0.jpg',
+    title: 'Dark',
+    categories: 'Sci-Fi & Fantasy, Drama, Mystery, Crime.',
     year: 2018,
     country: 'USA',
-    length: 100,
+    length: 53,
     description:
-    'All Clara wants is a key - a one-of-a-kind key that will unlock a box that holds a priceless gift from her late mother. A golden thread, presented to her at godfather Drosselmeyer\'s annual holiday party, leads her to the coveted key-which promptly disappears into a strange and mysterious parallel world. It\'s there that Clara encounters a soldier named Phillip, a gang of mice and the regents who preside over three Realms: Land of Snowflakes, Land of Flowers, and Land of Sweets. Clara and Phillip must brave the ominous Fourth Realm, home to the tyrant Mother Ginger, to retrieve Clara\'s key and hopefully return harmony to the unstable world.',
+        'A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town.',
     screenshots: [
-      'assets/images/nutcracker_0.jpg',
-      'assets/images/nutcracker_1.jpg',
-      'assets/images/nutcracker_2.jpg',
+      'assets/images/dark.jpg',
+      'assets/images/dark_1.jpg',
+      'assets/images/dark_2.jpg',
     ],
   ),
   Movie(
-    imageUrl: 'assets/images/toystory.jpg',
-    title: 'Toy Story 4',
-    categories: 'Adventure, Fantasy',
-    year: 2019,
+    imageUrl: 'assets/images/lacasa_0.jpg',
+    title: 'La casa de papel',
+    categories: 'Crime, Drama',
+    year: 2017,
     country: 'USA',
-    length: 100,
+    length: 70,
     description:
-    'Woody, Buzz Lightyear and the rest of the gang embark on a road trip with Bonnie and a new toy named Forky. The adventurous journey turns into an unexpected reunion as Woody\'s slight detour leads him to his long-lost friend Bo Peep. As Woody and Bo discuss the old days, they soon start to realize that they\'re two worlds apart when it comes to what they want from life as a toy.',
+        'To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing',
     screenshots: [
-      'assets/images/toystory_0.jpg',
-      'assets/images/toystory_1.jpg',
-      'assets/images/toystory_2.jpg',
+      'assets/images/lacasa.jpg',
+      'assets/images/lacasa_1.jpg',
+      'assets/images/lacasa_2.jpg',
     ],
   ),
 ];
 
 final List<String> labels = [
-  'Discover',
-  'Categories',
-  'Specials',
   'New',
+  'Discover',
+  'Popular',
+  'Specials',
 ];
 
 final List<String> myList = [
-  'assets/images/shigatsu_wa_kimi_no_uso.jpg',
-  'assets/images/plastic_memories.png',
-  'assets/images/erased.jpg',
-  'assets/images/seven_deadly_sins.jpg',
-  'assets/images/cobra_kai.jpg',
+  'assets/images/emilyinparis.jpg',
+  'assets/images/thekissing.jpg',
+  'assets/images/twd.jpg',
+  'assets/images/blackmirror.jpg',
+  'assets/images/strangerthings.jpg',
 ];
 
 final List<String> popular = [
-  'assets/images/stranger_things.jpg',
-  'assets/images/endgame.jpg',
-  'assets/images/oitnb.jpg',
   'assets/images/daredevil.jpg',
+  'assets/images/endgame.jpg',
+  'assets/images/stranger_things.jpg',
+  'assets/images/oitnb.jpg',
 ];

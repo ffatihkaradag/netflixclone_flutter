@@ -22,6 +22,6 @@ For build please write command line this  code "flutter build apk" and will gonn
 ![Alt text](screenshots/2.PNG?raw=true "movie screen")
 
 ## Application Url (Google Drive)
-If you want to try this application, [you can download it here.](https://drive.google.com/file/d/1CNbWM6m2h6F3dqTYIhLjenP4G-g4Rv_i/view?usp=sharing)
+If you want to try this application, [you can download it here.](https://drive.google.com/file/d/1rCz-Zj0UzJvurqQulizK2_7U9ibCgYzk/view?usp=sharing)
 
-[Virustotal Report](https://www.virustotal.com/gui/file/6c2734d557f6f7d040ebdc41080fe848b5345711502f72574c9e73f30bb494ec/detection)
+[Virustotal Report](https://www.virustotal.com/gui/file/16642d31e37bfd39046fd75c3874081907a3edb77da4426e4d8558c24f8b6c66/detection)
